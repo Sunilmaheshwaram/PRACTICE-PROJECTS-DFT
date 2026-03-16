@@ -1,5 +1,4 @@
-# Basic Scan Insertion
-# Scan Insertion using Tessent Scan/Fullscan
+# Scan Insertion using Tessent Scan
 
 # Project Overview 
 Scan insertion performed on a sequential design during VLSI DFT training.
@@ -28,7 +27,7 @@ Scan insertion performed on a sequential design during VLSI DFT training.
 # Result
 Scan chain sucessfully inserted and verified
 
-Author
+# Author
 Sunil Maheshwaram
 VLSI | DFT | ECE
 
