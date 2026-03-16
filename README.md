@@ -29,6 +29,6 @@ Scan chain sucessfully inserted and verified
 
 # Author
 Sunil Maheshwaram
-VLSI | DFT | ECE
+ VLSI | DFT | ECE
 
 
