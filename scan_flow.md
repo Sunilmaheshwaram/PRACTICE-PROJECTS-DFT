@@ -7,8 +7,7 @@ Step - 2: DFT signal definitions
 Signals like scan clock and scan enable are defined in this step.
 
 Step - 3: DFT DRC(Design Rule Check)
-After defining all the dft signals perform desgin rule check(DRC), this step checks the scan insertion compatability and if it passes then 
-the desing is moved from setup to analysis phase.
+After defining all the dft signals perform desgin rule check(DRC), this step checks the scan insertion compatability and if it passes then the desing is moved from setup to analysis phase.
 
 Step - 4: Scan chain creation
 In this step the Scan chains are created while cascading flipflops.
