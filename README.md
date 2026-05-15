@@ -27,6 +27,10 @@ Scan insertion performed on a sequential design during VLSI DFT training.
 # Result
 Scan chain sucessfully inserted and verified
 
+# Note
+The data, flow, and implementation details presented in this repository are based on the projects and practical work performed during my DFT training at Semicon Technolabs. This GitHub repository has been created solely for professional and educational portfolio purposes to showcase my understanding, hands-on experience, and project work in the DFT domain.
+Any content shared here is intended only for learning, demonstration, and representation of my technical skills and should not be considered as proprietary or commercial material.
+
 # Author
 Sunil Maheshwaram
  VLSI | DFT | ECE
